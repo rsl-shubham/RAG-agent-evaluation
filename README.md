@@ -1,4 +1,4 @@
-# Production-Style RAG Agent & LLM Evaluation Framework
+# RAG Agent & LLM Evaluation Framework
 
 An enterprise implementation of **RAG Evaluation, LLM-as-a-Judge, LangSmith Experiments, and LangGraph Agent Evaluation** built for Acme Technologies employee knowledge and HR support.
 
