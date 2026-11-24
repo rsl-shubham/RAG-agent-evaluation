@@ -1,0 +1,31 @@
+# Information Technology Support, Access, and Hardware Policy
+# Metadata: source=it_support_policy.txt, category=IT, version=2.7, effective_date=2026-02-01, department=Information Technology & Service Desk
+
+ACME TECHNOLOGIES - IT SUPPORT & WORKPLACE ASSETS POLICY
+
+1. IT Service Desk Channels and Operating Hours
+- IT Helpdesk operates 24x7 for P1 critical outages and Monday through Friday, 8:00 AM to 8:00 PM for standard requests.
+- All requests must be submitted through the Jira Service Management portal (https://servicedesk.acme.internal) or via the Slack channel #it-helpdesk.
+- Urgent hardware replacement issues can be escalated by calling the IT Emergency Hotline at ext. 4357 (HELP).
+
+2. Laptop Allocation, Refresh, and Replacement
+- Engineering & Design: 16-inch or 14-inch Apple MacBook Pro M-series with 32GB RAM.
+- Business, Sales & Operations: Dell Latitude 5540 (Intel Core i7, 16GB RAM) or Lenovo ThinkPad T14.
+- Standard hardware refresh cycle is 36 months (3 years). Premature replacements require Director of IT authorization.
+- In the event of accidental damage or hardware malfunction, a loaner laptop is dispatched within 24 business hours.
+
+3. Remote Access and Virtual Private Network (VPN)
+- Corporate network access requires the Acme Secure GlobalProtect VPN with mandatory multi-factor authentication (MFA via Duo Mobile / Okta Verify).
+- Direct internet access to internal production servers, staging clusters, and databases without active VPN tunneling is technically prohibited.
+- Split-tunneling is enabled strictly for recognized video conferencing domains (Zoom, Google Meet) to optimize bandwidth.
+
+4. Software Installation and Administrative Privileges
+- Standard administrative privileges on corporate machines are restricted by default.
+- Developers needing local root/admin rights must request Privileged Access Management (PAM) approval via the IT portal, valid for renewable 6-month intervals.
+- Installing unapproved software, peer-to-peer applications, or commercial licenses without procurement sign-off is a violation of company policy.
+
+5. Service Level Agreements (SLAs) for IT Tickets
+- Priority 1 (System Outage / Blocker): Response within 15 minutes, resolution target 2 hours.
+- Priority 2 (High / Single User Blocker): Response within 1 hour, resolution target 8 hours.
+- Priority 3 (Medium / Standard Request): Response within 4 hours, resolution target 24-48 hours.
+- Priority 4 (Low / General Inquiry / Enhancement): Response within 24 hours, resolution target 5 business days.

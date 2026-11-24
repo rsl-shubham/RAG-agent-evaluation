@@ -1,0 +1,27 @@
+# Annual Holiday Calendar and Observances
+# Metadata: source=holiday_calendar.txt, category=HR, version=1.0, effective_date=2026-01-01, department=People Operations
+
+ACME TECHNOLOGIES - 2026 OFFICIAL HOLIDAY CALENDAR
+
+1. Standard Mandatory Paid Holidays (All India Locations)
+Acme Technologies observes 10 mandatory paid public holidays across all national development centers:
+1. New Year's Day - Thursday, January 1, 2026
+2. Republic Day - Monday, January 26, 2026
+3. Holi - Wednesday, March 4, 2026
+4. Good Friday - Friday, April 3, 2026
+5. May Day / Labor Day - Friday, May 1, 2026
+6. Independence Day - Saturday, August 15, 2026 (Compensatory day off observed Friday, August 14)
+7. Mahatma Gandhi Jayanti - Friday, October 2, 2026
+8. Dussehra (Vijayadashami) - Tuesday, October 20, 2026
+9. Diwali (Deepavali) - Sunday, November 8, 2026 (Additional holiday observed Monday, November 9)
+10. Christmas Day - Friday, December 25, 2026
+
+2. Optional / Floating Holidays
+- Full-time regular employees are entitled to choose up to 2 Optional / Floating Holidays per calendar year from the approved list of regional observances:
+  * Pongal / Makar Sankranti - Wednesday, January 14, 2026
+  * Eid-ul-Fitr - Friday, March 20, 2026
+  * Raksha Bandhan - Friday, August 28, 2026
+  * Ganesh Chaturthi - Monday, September 14, 2026
+  * Guru Nanak Jayanti - Tuesday, November 24, 2026
+- Optional holidays must be applied for at least 7 calendar days in advance via the HR Portal and are subject to project staffing coverage.
+- Floating holidays cannot be carried over to the following year or encashed.

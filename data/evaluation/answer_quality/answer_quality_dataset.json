@@ -1,0 +1,117 @@
+[
+  {
+    "id": "ans_001",
+    "inputs": {
+      "question": "How many days of paid annual leave do employees receive per year, and how many unused days can be carried forward?"
+    },
+    "reference": "Full-time employees receive 20 days of paid annual leave per calendar year. A maximum of 5 unused annual leave days can be carried forward to the following calendar year; any balance above 5 is forfeited.",
+    "expected_facts": [
+      "20 days of paid annual leave per calendar year",
+      "Maximum of 5 unused days can be carried forward",
+      "Balance exceeding 5 days is forfeited on December 31st"
+    ],
+    "expected_sources": ["leave_policy.txt"],
+    "expected_numbers": ["20", "5"],
+    "tags": ["factual", "leave", "numerical"]
+  },
+  {
+    "id": "ans_002",
+    "inputs": {
+      "question": "What is the health insurance coverage provided by Acme Technologies and who is covered?"
+    },
+    "reference": "Acme Technologies provides Group Medical Insurance with INR 5,00,000 coverage per year covering the employee, spouse, and up to 2 dependent children.",
+    "expected_facts": [
+      "INR 5,00,000 health insurance coverage per year",
+      "Covers employee, spouse, and up to 2 dependent children"
+    ],
+    "expected_sources": ["employee_benefits.txt"],
+    "expected_numbers": ["5,00,000", "2"],
+    "tags": ["benefits", "insurance", "numerical"]
+  },
+  {
+    "id": "ans_003",
+    "inputs": {
+      "question": "What is the annual learning and development budget and what approval is needed?"
+    },
+    "reference": "Employees receive an annual individual Learning & Development allowance of INR 15,000 per calendar year. Pre-approval from the direct manager is mandatory via the Acme Learning Portal before purchasing any course or exam voucher.",
+    "expected_facts": [
+      "Annual budget of INR 15,000 per calendar year",
+      "Pre-approval from direct manager is mandatory before purchase"
+    ],
+    "expected_sources": ["employee_benefits.txt"],
+    "expected_numbers": ["15,000"],
+    "tags": ["benefits", "learning", "process"]
+  },
+  {
+    "id": "ans_004",
+    "inputs": {
+      "question": "How many days per week can employees work remotely and what days must they be in the office?"
+    },
+    "reference": "Eligible employees can work remotely up to 2 days per week. Tuesday and Thursday are designated mandatory in-office Collaboration Anchor Days.",
+    "expected_facts": [
+      "Up to 2 days per week remote work",
+      "Tuesday and Thursday are mandatory in-office anchor days"
+    ],
+    "expected_sources": ["remote_work_policy.txt"],
+    "expected_numbers": ["2"],
+    "tags": ["remote_work", "rules"]
+  },
+  {
+    "id": "ans_005",
+    "inputs": {
+      "question": "What are the domestic hotel accommodation caps for Tier 1 and Tier 2 cities?"
+    },
+    "reference": "For domestic business travel, Tier 1 metro cities (such as Mumbai, Bengaluru, and Delhi NCR) have a hotel rate cap of INR 7,500 per night, while Tier 2 cities have a rate cap of INR 4,500 per night.",
+    "expected_facts": [
+      "Tier 1 hotel rate cap is INR 7,500 per night",
+      "Tier 2 hotel rate cap is INR 4,500 per night"
+    ],
+    "expected_sources": ["travel_expense_policy.txt"],
+    "expected_numbers": ["7,500", "4,500"],
+    "tags": ["travel", "numerical"]
+  },
+  {
+    "id": "ans_006",
+    "inputs": {
+      "question": "What is the maternity leave entitlement at Acme Technologies?"
+    },
+    "reference": "Eligible female employees who have completed at least 80 days of continuous service are entitled to 26 weeks of fully paid maternity leave for up to two surviving children (12 weeks for the third child onwards).",
+    "expected_facts": [
+      "26 weeks of fully paid maternity leave for up to two children",
+      "Requires at least 80 days of continuous service",
+      "12 weeks for third child onwards"
+    ],
+    "expected_sources": ["leave_policy.txt"],
+    "expected_numbers": ["26", "80", "12"],
+    "tags": ["leave", "maternity", "conditions"]
+  },
+  {
+    "id": "ans_007",
+    "inputs": {
+      "question": "What are the rules and expiry for Compensatory Off (Comp-Off)?"
+    },
+    "reference": "If an exempt employee is required by leadership to work on a declared company holiday or weekend for critical incident response or deployments, they receive 1 day of Compensatory Off (Comp-Off). Comp-Off must be utilized within 60 calendar days of accrual or it will lapse.",
+    "expected_facts": [
+      "1 day of Comp-Off for working on holiday or weekend",
+      "Must be utilized within 60 calendar days or it lapses",
+      "Requires prior written manager approval"
+    ],
+    "expected_sources": ["attendance_policy.txt"],
+    "expected_numbers": ["1", "60"],
+    "tags": ["attendance", "compoff"]
+  },
+  {
+    "id": "ans_008",
+    "inputs": {
+      "question": "What is the financial approval threshold for Department Directors?"
+    },
+    "reference": "Under the Financial Delegation of Authority Matrix, Tier 2 approvals covering INR 25,001 up to INR 1,00,000 must be approved by the Department Director / Head of Function.",
+    "expected_facts": [
+      "Department Directors approve Tier 2 expenses",
+      "Approval range is INR 25,001 to INR 1,00,000"
+    ],
+    "expected_sources": ["expense_approval_matrix.txt"],
+    "expected_numbers": ["25,001", "1,00,000"],
+    "tags": ["finance", "approval_matrix"]
+  }
+]

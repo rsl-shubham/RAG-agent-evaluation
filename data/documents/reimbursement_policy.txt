@@ -1,0 +1,21 @@
+# Employee Expense Reimbursement Policy
+# Metadata: source=reimbursement_policy.txt, category=Finance, version=2.2, effective_date=2026-01-01, department=Finance & Accounts
+
+ACME TECHNOLOGIES - EXPENSE REIMBURSEMENT POLICY
+
+1. General Principles and Claims Process
+All business-related expenses incurred by employees on behalf of Acme Technologies must be reasonable, pre-approved where required, and submitted through the Acme Expense Portal (Expensify) with valid itemized receipts attached.
+
+2. Monthly Recurring Allowances
+- Home Internet Reimbursement: Up to INR 1,500 per calendar month. Broadband bills must clearly display the employee's residential address and billing date.
+- Mobile Phone Bill Reimbursement: Up to INR 1,000 per month for authorized customer-facing and on-call personnel.
+- Claim Window: Recurring monthly claims must be submitted between the 1st and 10th of the subsequent month. Claims older than 60 days will be rejected automatically.
+
+3. Client Entertainment and Team Meals
+- Team meals for project milestones are reimbursed up to INR 1,200 per attendee, requiring prior written authorization from the Engineering Director or VP.
+- Alcoholic beverages cannot be reimbursed using company funds unless pre-approved for executive customer events.
+- Itemized tax receipts showing all line items are strictly required. Credit card charge slips alone are not acceptable proof.
+
+4. Reimbursement Payment Cycles
+- Approved expense claims submitted by the 15th of each month are paid out on the 25th of that same month via direct deposit.
+- Claims approved after the 15th will be processed in the following month's reimbursement cycle.

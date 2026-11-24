@@ -1,0 +1,27 @@
+# Expense Approval Authority Matrix and Financial Delegation
+# Metadata: source=expense_approval_matrix.txt, category=Finance, version=2.5, effective_date=2026-01-01, department=Finance & Controlling
+
+ACME TECHNOLOGIES - FINANCIAL DELEGATION OF AUTHORITY (DoA) MATRIX
+
+1. Purpose and Governance
+This matrix governs expenditure approvals across operational expenses, travel, software procurement, and capital acquisitions. Any split purchases designed to bypass approval thresholds are considered a financial compliance violation.
+
+2. Delegation Approval Tiers (Operational Expenses & Invoices)
+- Tier 1: Up to INR 25,000 (~$300 USD)
+  * Approver: Direct Team Lead / Engineering Manager.
+- Tier 2: INR 25,001 to INR 1,00,000 (~$1,200 USD)
+  * Approver: Department Director / Head of Function.
+- Tier 3: INR 1,00,001 to INR 5,00,000 (~$6,000 USD)
+  * Approver: Functional Vice President (VP) + Finance Controller.
+- Tier 4: INR 5,00,001 to INR 25,00,000 (~$30,000 USD)
+  * Approver: Chief Financial Officer (CFO).
+- Tier 5: Greater than INR 25,00,000
+  * Approver: Chief Executive Officer (CEO) and Board Audit Committee notification.
+
+3. Software Subscriptions and Cloud Services
+- Any SaaS license or software subscription exceeding INR 50,000 annually requires IT Security review and Procurement approval regardless of budgetary authority tier.
+- AWS/GCP cloud resource provisioning exceeding budgeted monthly baseline by more than 15% requires immediate VP of Engineering and CFO approval.
+
+4. Emergency Approvals and Delegation
+- During manager absence exceeding 5 business days, formal delegation in the ERP system must be assigned to an equivalent or higher-level peer.
+- Post-facto approvals are restricted to Priority 1 production outage incident remediation costs up to INR 2,00,000 with notice sent to the CFO within 24 hours.

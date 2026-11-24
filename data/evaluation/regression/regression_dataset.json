@@ -1,0 +1,62 @@
+[
+  {
+    "id": "reg_001",
+    "inputs": {
+      "question": "How many days of paid sick leave do employees get per year?"
+    },
+    "reference": "Employees receive 10 days of paid sick leave per calendar year, credited on January 1st.",
+    "expected_sources": ["leave_policy.txt"],
+    "expected_numbers": ["10"],
+    "tags": ["regression", "leave"]
+  },
+  {
+    "id": "reg_002",
+    "inputs": {
+      "question": "What is the annual gym and fitness allowance?"
+    },
+    "reference": "Employees are eligible for an annual gym or fitness membership reimbursement of up to INR 6,000 per year, claimable in two half-yearly installments.",
+    "expected_sources": ["employee_benefits.txt"],
+    "expected_numbers": ["6,000"],
+    "tags": ["regression", "benefits"]
+  },
+  {
+    "id": "reg_003",
+    "inputs": {
+      "question": "What are the standard weekly working hours and core collaboration hours?"
+    },
+    "reference": "The standard work week is 40 hours (8 hours per day, Monday through Friday). Core collaboration hours are 10:00 AM to 4:00 PM local time.",
+    "expected_sources": ["attendance_policy.txt", "remote_work_policy.txt"],
+    "expected_numbers": ["40", "8"],
+    "tags": ["regression", "attendance"]
+  },
+  {
+    "id": "reg_004",
+    "inputs": {
+      "question": "What is the laptop hardware refresh cycle?"
+    },
+    "reference": "The standard hardware refresh cycle for corporate laptops is 36 months (3 years).",
+    "expected_sources": ["it_support_policy.txt"],
+    "expected_numbers": ["36", "3"],
+    "tags": ["regression", "it"]
+  },
+  {
+    "id": "reg_005",
+    "inputs": {
+      "question": "What is the notice period for an employee during their probationary period?"
+    },
+    "reference": "Employees currently undergoing their initial 90-day probationary period have a 30-calendar-day notice period.",
+    "expected_sources": ["employee_exit_policy.txt"],
+    "expected_numbers": ["90", "30"],
+    "tags": ["regression", "exit"]
+  },
+  {
+    "id": "reg_006",
+    "inputs": {
+      "question": "How many mandatory public holidays does Acme Technologies observe in 2026?"
+    },
+    "reference": "Acme Technologies observes 10 mandatory paid public holidays and provides up to 2 optional/floating holidays per calendar year.",
+    "expected_sources": ["holiday_calendar.txt"],
+    "expected_numbers": ["10", "2"],
+    "tags": ["regression", "holidays"]
+  }
+]

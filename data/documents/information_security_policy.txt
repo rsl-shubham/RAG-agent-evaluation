@@ -1,0 +1,24 @@
+# Information Security, Data Classification, and Acceptable Use Policy
+# Metadata: source=information_security_policy.txt, category=Security, version=4.0, effective_date=2026-01-10, department=Information Security (InfoSec)
+
+ACME TECHNOLOGIES - INFORMATION SECURITY POLICY
+
+1. Password and Authentication Standards
+- Passwords must be a minimum of 14 characters in length and include uppercase letters, lowercase letters, numbers, and special symbols.
+- Passwords must be changed every 90 days. Passwords cannot match any of the previous 8 used passwords.
+- Multi-Factor Authentication (MFA) via hardware security key (YubiKey) or approved authenticator apps (Okta Verify, Google Authenticator) is strictly mandatory for all systems. SMS-based MFA is phased out and unpermitted.
+
+2. Data Classification Levels
+- Public: Information freely shareable externally (marketing collateral, public press releases).
+- Internal: General internal business communications, team wikis, non-confidential project briefs.
+- Confidential: Proprietary source code, customer contracts, roadmap documentation, financial reports.
+- Restricted: Sensitive customer personal data (PII), payroll databases, encryption keys, board deliberations. Restricted data requires role-based access control and end-to-end encryption at rest (AES-256) and in transit (TLS 1.3).
+
+3. Device Security, Storage, and BYOD Constraints
+- Full disk encryption (FileVault for macOS, BitLocker for Windows) is mandated and enforced via MDM (Jamf / Microsoft Intune).
+- Storing unencrypted sensitive or confidential company data on USB flash drives or personal external media is strictly prohibited.
+- Bring Your Own Device (BYOD) phones accessing corporate email or Slack must enroll in lightweight Mobile Device Management (MDM) with remote wipe capability for corporate containers.
+
+4. Phishing Reporting and Incident Management
+- Employees must report suspicious emails immediately by clicking the 'PhishAlarm' button in Google Workspace or forwarding to security@acmetechnologies.com.
+- In case of a suspected breach, device theft, or credential compromise, the employee must contact the Security Incident Response Team (SIRT) hotline immediately at ext. 9111.

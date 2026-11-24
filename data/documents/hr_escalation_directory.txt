@@ -1,0 +1,32 @@
+# HR Escalation, Support Channels, and Service Level Directory
+# Metadata: source=hr_escalation_directory.txt, category=HR, version=2.0, effective_date=2026-01-01, department=People & Culture Operations
+
+ACME TECHNOLOGIES - HR ESCALATION & SUPPORT DIRECTORY
+
+1. Support Tiers and Contact Channels
+Acme Technologies maintains dedicated escalation channels for employee queries, disputes, grievances, and benefits administration:
+
+- Tier 1: General HR Helpdesk
+  * Scope: Routine queries regarding leave balance, attendance regularization, payslip access, company letters.
+  * Channel: Slack #hr-helpdesk or email hr-service@acmetechnologies.com.
+  * SLA: Initial response within 4 business hours; resolution within 24 business hours.
+
+- Tier 2: Specialized HR Centers of Excellence (CoE)
+  * Payroll & Taxes: payroll@acmetechnologies.com (SLA: 24-48 business hours).
+  * Benefits & Medical Insurance: benefits@acmetechnologies.com (SLA: 24 business hours; emergency hospitalization hotline available 24/7 at ext. 4111).
+  * Learning & Development: lnd@acmetechnologies.com (SLA: 2 business days).
+  * Travel Desk & Per-Diem: travel@acmetechnologies.com (SLA: 12 business hours).
+
+- Tier 3: HR Business Partner (HRBP) Escalation
+  * Scope: Workplace interpersonal conflicts, performance disputes, transfer requests, extended unpaid leaves.
+  * Channel: Dedicated departmental HRBP (contact details listed in the Acme Employee Directory).
+  * SLA: 48 business hours for formal meeting scheduling.
+
+- Tier 4: Workplace Grievance, Ethics & POSH Committee
+  * Scope: Workplace harassment, discrimination, ethical violations, fraud reporting, whistleblower concerns.
+  * Channel: ethics-hotline@acmetechnologies.com or anonymous reporting portal at https://integrity.acmetechnologies.com.
+  * Prevention of Sexual Harassment (POSH) Internal Committee: posh@acmetechnologies.com.
+  * SLA: Immediate acknowledgement within 12 hours; investigation initiated within 3 business days with strict statutory confidentiality.
+
+2. Query Routing Rules for Automated Support Assistants
+- When an employee asks about a policy or exception that cannot be verified from available knowledge documents, the assistant must clearly state the absence of information and route the employee to Tier 1 HR Helpdesk (hr-service@acmetechnologies.com) or the relevant specialized contact (payroll@, benefits@, security@).

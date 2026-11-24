@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ret_001",
+    "inputs": {
+      "question": "How many days of paid annual leave do employees receive and what are the carry forward rules?"
+    },
+    "expected_sources": ["leave_policy.txt"],
+    "tags": ["retrieval", "leave", "numerical"],
+    "scenario": "Direct single-document policy retrieval with specific conditions"
+  },
+  {
+    "id": "ret_002",
+    "inputs": {
+      "question": "What is the monthly reimbursement allowance for home internet and mobile phones?"
+    },
+    "expected_sources": ["reimbursement_policy.txt", "employee_benefits.txt"],
+    "tags": ["retrieval", "multi_document", "benefits", "reimbursement"],
+    "scenario": "Multi-document overlap test (information spans employee benefits and reimbursement policies)"
+  },
+  {
+    "id": "ret_003",
+    "inputs": {
+      "question": "What are the anchor days when hybrid employees must work from the office?"
+    },
+    "expected_sources": ["remote_work_policy.txt"],
+    "tags": ["retrieval", "remote_work", "rules"],
+    "scenario": "Disambiguate remote work anchor days from general attendance hours"
+  },
+  {
+    "id": "ret_004",
+    "inputs": {
+      "question": "What are the hotel room limits for domestic travel in Tier 1 cities versus Tier 2 cities?"
+    },
+    "expected_sources": ["travel_expense_policy.txt"],
+    "tags": ["retrieval", "travel", "numerical_tiers"],
+    "scenario": "Retrieve tiered numerical rate caps"
+  },
+  {
+    "id": "ret_005",
+    "inputs": {
+      "question": "Who needs to approve a software purchase or SaaS license exceeding 50,000 INR?"
+    },
+    "expected_sources": ["expense_approval_matrix.txt"],
+    "tags": ["retrieval", "approval_matrix", "finance", "it"],
+    "scenario": "Specific threshold condition retrieval in financial delegation"
+  },
+  {
+    "id": "ret_006",
+    "inputs": {
+      "question": "What is the notice period required for regular confirmed employees versus employees on probation?"
+    },
+    "expected_sources": ["employee_exit_policy.txt"],
+    "tags": ["retrieval", "exit", "conditions"],
+    "scenario": "Differentiating notice period requirements by employee status"
+  },
+  {
+    "id": "ret_007",
+    "inputs": {
+      "question": "What are the password length requirements and MFA methods accepted by InfoSec?"
+    },
+    "expected_sources": ["information_security_policy.txt"],
+    "tags": ["retrieval", "security", "credentials"],
+    "scenario": "Security credential criteria and forbidden authentication methods"
+  },
+  {
+    "id": "ret_008",
+    "inputs": {
+      "question": "When are monthly salaries disbursed and what is the deadline for submitting investment proofs?"
+    },
+    "expected_sources": ["payroll_policy.txt"],
+    "tags": ["retrieval", "payroll", "tax"],
+    "scenario": "Retrieval of financial calendars and tax deadlines"
+  }
+]

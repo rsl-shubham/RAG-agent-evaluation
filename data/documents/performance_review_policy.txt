@@ -1,0 +1,27 @@
+# Performance Management, Review Cycles, and Development
+# Metadata: source=performance_review_policy.txt, category=HR, version=3.0, effective_date=2026-01-01, department=People Operations
+
+ACME TECHNOLOGIES - PERFORMANCE REVIEW & GROWTH POLICY
+
+1. Review Cadence and Timeline
+- Acme Technologies operates on a bi-annual performance evaluation cadence:
+  * Mid-Year Check-in (H1): June - July (focusing on goal progress and qualitative coaching; no rating or compensation linkage).
+  * Annual Performance Review (H2): December - January (comprehensive evaluation determining merit increases, equity refreshes, and promotions).
+- Goal setting (Objectives and Key Results - OKRs) must be finalized in the performance system by the end of January for H1 and July for H2.
+
+2. Evaluation Components and 360 Feedback
+- Self-Evaluation: Employee completes self-reflection against assigned OKRs and Acme Core Values.
+- Peer Feedback: Employees nominate 3 to 5 cross-functional peers to provide 360-degree feedback.
+- Manager Assessment: The direct manager synthesizes OKR metrics, peer reviews, and core behavioral expectations.
+
+3. Performance Rating Scale
+- Level 5 (Exceptional Impact): Consistently exceeds all expectations; top ~10% tier.
+- Level 4 (Strong Impact): Exceeds targets across primary objectives; ~25% tier.
+- Level 3 (Consistent Impact): Meets all performance expectations reliably; ~50% tier.
+- Level 2 (Needs Improvement): Inconsistent performance or missed critical milestones; ~10% tier.
+- Level 1 (Unsatisfactory Impact): Substantially fails to meet baseline requirements; ~5% tier.
+
+4. Performance Improvement Plan (PIP)
+- Employees receiving a Level 2 or Level 1 rating may be placed on a formal 60-day Performance Improvement Plan (PIP).
+- The PIP outlines measurable weekly milestones, remedial training support, and weekly progress check-ins with HR and the manager.
+- If acceptable performance is not attained by day 60, employment may be terminated subject to severance and notice guidelines.

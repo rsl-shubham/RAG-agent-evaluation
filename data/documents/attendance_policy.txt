@@ -1,0 +1,26 @@
+# Attendance, Working Hours, and Regularization Policy
+# Metadata: source=attendance_policy.txt, category=HR, version=1.5, effective_date=2026-01-01, department=People Operations
+
+ACME TECHNOLOGIES - ATTENDANCE & WORKING HOURS POLICY
+
+1. Standard Working Hours and Work Week
+- The official working week at Acme Technologies is Monday through Friday, consisting of 40 hours per week (8 hours per day, excluding 1 hour for lunch).
+- Standard office operational hours are 9:00 AM to 6:00 PM local time. Flexible band timing allows employees to start between 8:30 AM and 10:00 AM upon agreement with team leadership, provided 8 working hours are fulfilled.
+
+2. Daily Attendance Recording
+- In-office employees log attendance through RFID badge swiping at facility turnstiles.
+- Remote employees log their daily punch-in and punch-out via the Acme HR Mobile App or web portal.
+- All employees must be present or marked active during core collaboration hours (10:00 AM - 4:00 PM).
+
+3. Late Arrival and Grace Period
+- A grace period of 15 minutes is allowed up to 3 times per calendar month.
+- Repeated late arrivals exceeding 3 instances without prior notification will trigger an automated attendance regularization reminder. Continued unexcused tardiness may result in deduction of half-day casual leave.
+
+4. Attendance Regularization
+- If an employee forgets to badge in/out or experiences system glitches, an Attendance Regularization Request must be submitted via the portal within 48 hours.
+- Regularizations require direct supervisor sign-off. A maximum of 4 regularizations are permitted per calendar month.
+
+5. Overtime and Compensatory Off (Comp-Off)
+- Exempt salaried employees (engineering, managerial, administrative) are not eligible for statutory overtime pay.
+- If an exempt employee is explicitly required by leadership to work on a declared company holiday or weekend for critical incident response or production deployment, they are eligible for 1 day of Compensatory Off (Comp-Off).
+- Comp-Off must be utilized within 60 calendar days of accrual or it will lapse. Prior written manager approval is required.

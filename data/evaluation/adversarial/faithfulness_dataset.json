@@ -1,0 +1,38 @@
+[
+  {
+    "id": "faith_001",
+    "inputs": {
+      "question": "What is the internet reimbursement limit?"
+    },
+    "synthetic_context": "Remote and hybrid employees receive an Internet Reimbursement allowance of up to INR 1,500 per month for home broadband connectivity. Invoices must be submitted between the 1st and 10th.",
+    "synthetic_answer_faithful": "Remote and hybrid employees are eligible for an internet reimbursement of up to INR 1,500 per month.",
+    "synthetic_answer_hallucinated": "Remote and hybrid employees get INR 3,000 per month for internet and also receive free coffee vouchers.",
+    "expected_faithful_score": 1.0,
+    "expected_hallucinated_score": 0.0,
+    "tags": ["faithfulness", "synthetic", "numerical_distortion"]
+  },
+  {
+    "id": "faith_002",
+    "inputs": {
+      "question": "What are the password security rules?"
+    },
+    "synthetic_context": "Passwords must be a minimum of 14 characters in length and include uppercase letters, lowercase letters, numbers, and special symbols. Passwords must be changed every 90 days.",
+    "synthetic_answer_faithful": "Passwords must be at least 14 characters long and changed every 90 days.",
+    "synthetic_answer_contradicted": "Passwords can be 8 characters long and never expire.",
+    "expected_faithful_score": 1.0,
+    "expected_contradicted_score": 0.0,
+    "tags": ["faithfulness", "contradiction", "security"]
+  },
+  {
+    "id": "faith_003",
+    "inputs": {
+      "question": "What happens if I forget to badge in?"
+    },
+    "synthetic_context": "An Attendance Regularization Request must be submitted via the portal within 48 hours. A maximum of 4 regularizations are permitted per calendar month.",
+    "synthetic_answer_faithful": "You must submit an attendance regularization request within 48 hours via the portal, with a limit of 4 per month.",
+    "synthetic_answer_hallucinated": "If you forget to badge in, you are automatically docked a full day of pay and must meet with the CEO.",
+    "expected_faithful_score": 1.0,
+    "expected_hallucinated_score": 0.0,
+    "tags": ["faithfulness", "hallucination", "severe"]
+  }
+]

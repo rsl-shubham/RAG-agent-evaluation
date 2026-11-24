@@ -1,0 +1,68 @@
+[
+  {
+    "id": "unans_001",
+    "inputs": {
+      "question": "Does Acme Technologies sponsor employee pet insurance?"
+    },
+    "reference": "I could not find this information in the company documents. Acme Technologies documents do not mention pet insurance.",
+    "should_abstain": true,
+    "expected_sources": [],
+    "tags": ["unanswerable", "abstention", "benefits"],
+    "scenario": "Query about a plausible benefit not offered in the policy"
+  },
+  {
+    "id": "unans_002",
+    "inputs": {
+      "question": "Can I bring my dog to work at the Bangalore development center?"
+    },
+    "reference": "I could not find this information in the company documents. Pet workplace policies are not covered in the knowledge base.",
+    "should_abstain": true,
+    "expected_sources": [],
+    "tags": ["unanswerable", "abstention", "facilities"],
+    "scenario": "Facilities policy not documented"
+  },
+  {
+    "id": "unans_003",
+    "inputs": {
+      "question": "What is the company stock option (ESOP) vesting schedule for senior engineering managers?"
+    },
+    "reference": "I could not find this information in the company documents. Specific equity and ESOP grant vesting schedules are not detailed in the standard employee policy documents.",
+    "should_abstain": true,
+    "expected_sources": [],
+    "tags": ["unanswerable", "abstention", "compensation"],
+    "scenario": "Confidential compensation details absent from public knowledge base"
+  },
+  {
+    "id": "unans_004",
+    "inputs": {
+      "question": "What is the meal allowance for employees working from client offices in Sydney, Australia?"
+    },
+    "reference": "I could not find this information in the company documents. Specific per-diem rates for Australian dollars or Sydney client locations are not specified.",
+    "should_abstain": true,
+    "expected_sources": [],
+    "tags": ["unanswerable", "abstention", "travel"],
+    "scenario": "Geographic rate not defined in travel policy"
+  },
+  {
+    "id": "unans_005",
+    "inputs": {
+      "question": "How many months of paid paternity leave can contractors claim?"
+    },
+    "reference": "I could not find this information in the company documents. Under the leave policy, contractors and temporary personnel are explicitly not eligible for paid leave.",
+    "should_abstain": true,
+    "expected_sources": ["leave_policy.txt"],
+    "tags": ["unanswerable", "abstention", "contractor", "edge_case"],
+    "scenario": "Precondition test - contractors are not eligible for paid leave"
+  },
+  {
+    "id": "unans_006",
+    "inputs": {
+      "question": "What is the company policy on flying first class on domestic flights?"
+    },
+    "reference": "I could not find this information in the company documents. The travel policy mandates economy class for domestic flights and does not permit first class.",
+    "should_abstain": true,
+    "expected_sources": ["travel_expense_policy.txt"],
+    "tags": ["unanswerable", "abstention", "travel"],
+    "scenario": "Negative policy condition"
+  }
+]

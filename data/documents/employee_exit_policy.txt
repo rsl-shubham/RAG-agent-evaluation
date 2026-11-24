@@ -1,0 +1,21 @@
+# Employee Separation, Notice Period, and Exit Policy
+# Metadata: source=employee_exit_policy.txt, category=HR, version=2.3, effective_date=2026-01-01, department=People Operations & Legal
+
+ACME TECHNOLOGIES - EMPLOYEE SEPARATION & EXIT POLICY
+
+1. Voluntary Resignation and Notice Period
+- Confirmed regular employees must provide a mandatory notice period of 60 calendar days upon submitting voluntary resignation via the HR portal.
+- Employees currently undergoing their initial 90-day probationary period are subject to a 30-calendar-day notice period.
+- Notice period buy-out (shortening notice in lieu of salary recovery) is subject to mutual written agreement and department Vice President authorization.
+
+2. Handover and Knowledge Transfer (KT)
+- The resigning employee must prepare a detailed Knowledge Transfer (KT) document covering current codebases, architectural designs, administrative credentials, and active project deliverables.
+- The reporting manager must sign off on the formal KT completion checklist at least 5 business days before the final working day.
+
+3. Company Asset Return and IT Offboarding
+- All company-provided equipment (MacBook/laptop, monitors, security badges, access cards, corporate credit cards) must be returned to IT Facilities on or before 4:00 PM on the employee's last working day.
+- Single Sign-On (SSO) and VPN credentials will be automatically revoked at 6:00 PM local time on the final working day.
+
+4. Full and Final Settlement (FnF)
+- The Full and Final settlement (FnF), including final month prorated salary, encashment of eligible unused annual leave balance (up to 5 carried-forward days max), and gratuity (if eligible after 5 years continuous service), will be disbursed within 30 to 45 calendar days following the last working day.
+- Relieving letter and service certificate are released via email within 5 business days following receipt of all asset clearances.

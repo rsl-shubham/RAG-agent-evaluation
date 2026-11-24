@@ -1,16 +1,24 @@
-REMOTE WORK POLICY
+# Remote Work and Flexible Arrangement Policy
+# Metadata: source=remote_work_policy.txt, category=HR, version=3.1, effective_date=2026-02-01, department=People & Workplace Operations
 
-1. Work From Home:
-Employees can work remotely for up to 2 days per week.
+ACME TECHNOLOGIES - REMOTE WORK AND WORKPLACE POLICY
 
-2. Approval:
-Employees must obtain manager approval for their remote
-working schedule.
+1. Eligibility and Scope
+All regular full-time employees who have successfully completed their 90-day probationary period are eligible for flexible hybrid work arrangements, subject to role requirements and team lead agreement. Roles designated as 'On-Site Critical' (e.g., Data Center Operations, Physical Security, Facilities) are ineligible for regular remote work.
 
-3. Office Attendance:
-Employees are expected to work from the office for at least
-3 days per week.
+2. Weekly Remote Work Limits
+- Standard Hybrid Schedule: Eligible employees may work remotely up to 2 days per week (designated by their team manager).
+- In-Office Anchor Days: Tuesday and Thursday are designated company-wide Collaboration Anchor Days. All hybrid employees must work from their designated regional office on these two days.
+- Fully Remote Exceptions: Any employee seeking permanent 100% remote work must submit a Formal Remote Work Petition endorsed by their Director and approved by the VP of People Operations. Fully remote agreements are subject to annual re-certification.
 
-4. Exceptions:
-Any additional remote working days require approval from
-the department head.
+3. Working Hours, Availability, and Overlap
+- Core collaboration hours are 10:00 AM to 4:00 PM local office time. Employees must be accessible on Slack and available for scheduled Zoom meetings during core hours.
+- Employees working remotely must maintain responsiveness on Slack, email, and calendar invites during standard business hours (9:00 AM to 6:00 PM).
+
+4. Remote Work from Alternate Geographic Locations (Work-From-Anywhere)
+- Domestic Remote: Employees may request up to 15 business days per calendar year to work from a secondary domestic location (outside commuting radius). Prior manager approval is required 14 days in advance.
+- International Remote: For tax and labor compliance reasons, unauthorized international remote work is strictly prohibited. International work permits are only granted for approved business travel or under exceptional circumstances with Legal and Tax clearance.
+
+5. Remote Workspace Equipment and Stipend
+- Company-issued laptops must always be used for work activities. Use of personal devices for corporate data processing is prohibited by Infosec.
+- Hardware refresh cycles and ergonomic support are governed under the Employee Benefits and Reimbursement policies.

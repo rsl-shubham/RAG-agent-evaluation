@@ -1,0 +1,27 @@
+# Employee Onboarding, Equipment Provisioning, and Orientation
+# Metadata: source=employee_onboarding.txt, category=HR, version=2.1, effective_date=2026-01-01, department=People Operations & Talent Acquisition
+
+ACME TECHNOLOGIES - NEW HIRE ONBOARDING POLICY
+
+1. Pre-Joining Documentation and Background Verification
+- Selected candidates must complete digital onboarding in the Acme Candidate Portal at least 7 days before their designated start date.
+- Required documents include government photo identification (Passport/PAN/National ID), educational transcripts, previous employment relieving letters, and emergency contact details.
+- Background verification (BGV) checks are conducted through a verified third-party agency. Offers are contingent upon satisfactory background clearance.
+
+2. Equipment and Credential Provisioning
+- IT automates account generation (Google Workspace, Slack, Jira, GitHub) 3 business days before joining.
+- Provisioned laptop and starter kit are dispatched to arrive at the employee's residential address 1 to 2 business days before the joining date.
+- Initial single sign-on (SSO) temporary passwords expire within 24 hours of generation and must be reset on day one.
+
+3. First Week Orientation Schedule
+- Day 1: Welcome address by HR, company culture overview, benefits briefing, and IT device enrollment.
+- Day 2: Mandatory Compliance and Infosec training completion (must be completed within the first 14 days).
+- Day 3 to 5: Departmental induction, team introductions, onboarding buddy assignment, and development environment setup.
+
+4. Onboarding Buddy Program
+- Each new hire is paired with an experienced peer 'Onboarding Buddy' for their first 60 days to assist with day-to-day tooling, office culture, and informal questions.
+
+5. Probation Period and Confirmation
+- Standard probationary period for all newly hired employees is 90 calendar days.
+- A 45-day mid-probation review and an 85-day final confirmation review are held between the employee and their reporting manager.
+- Upon successful confirmation, formal confirmation letters are issued via the HR portal.

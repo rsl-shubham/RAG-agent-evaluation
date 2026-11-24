@@ -1,0 +1,24 @@
+# Payroll, Salary Disbursement, and Tax Documentation Policy
+# Metadata: source=payroll_policy.txt, category=Finance, version=1.8, effective_date=2026-01-01, department=Finance & Payroll
+
+ACME TECHNOLOGIES - PAYROLL AND SALARY POLICY
+
+1. Salary Disbursement Schedule
+- Monthly salaries are credited directly to employees' designated direct deposit bank accounts on the last business day of each calendar month.
+- If the last calendar day falls on a weekend or gazetted national banking holiday, salary disbursement is executed on the preceding business day.
+
+2. Payslips and Tax Deductions
+- Digital payslips are generated and accessible via the Acme HR Payroll Portal (ADP self-service) 24 hours prior to pay disbursement.
+- Statutory deductions, including Provident Fund (PF), Professional Tax, and Income Tax (TDS), are deducted in accordance with applicable tax regulations.
+- Employees must submit their annual tax declaration and investment proofs through the payroll portal before January 15th to avoid higher withholding in the final quarter.
+
+3. Salary Correction Requests and Discrepancies
+- Any discrepancies regarding base pay, allowances, or incorrect deductions must be flagged to payroll@acmetechnologies.com within 5 business days of payslip publication.
+- Validated underpayments exceeding INR 5,000 are disbursed within an off-cycle payroll run within 3 business days; smaller corrections are adjusted in the subsequent payroll cycle.
+
+4. Performance Bonuses and Variable Compensation
+- Annual performance bonuses are evaluated following the Q4 performance cycle and disbursed in the March payroll run.
+- To be eligible for bonus payout, the employee must be actively employed on the date of disbursement and must not be serving a formal notice period.
+
+5. Tax Withholding Statements (Form 16)
+- Annual Form 16 / Tax Withholding Certificates are issued digitally via the portal by May 31st following the close of the financial year.

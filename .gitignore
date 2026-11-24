@@ -18,7 +18,14 @@ ENV/
 chroma_db/
 *.chroma
 
-# Evaluation outputs & logs
+# Evaluation outputs, logs & generated test artifacts
 *.log
 evaluations/results/
+reports/*.json
+reports/*.md
+!reports/.gitkeep
+
+# System & IDE files
 .DS_Store
+.idea/
+.vscode/

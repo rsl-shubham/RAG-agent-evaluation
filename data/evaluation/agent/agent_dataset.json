@@ -1,0 +1,46 @@
+[
+  {
+    "id": "agent_001",
+    "inputs": {
+      "question": "How many days of sick leave do full-time employees receive?"
+    },
+    "expected_intent": "policy_inquiry",
+    "expected_tool": "search_company_policy",
+    "expected_trajectory_nodes": ["router", "retrieval", "assessment", "generation"],
+    "reference_answer": "Employees receive 10 days of paid sick leave per calendar year.",
+    "tags": ["agent", "happy_path", "policy_lookup"]
+  },
+  {
+    "id": "agent_002",
+    "inputs": {
+      "question": "Does Acme Technologies cover pet health insurance for domestic animals?"
+    },
+    "expected_intent": "policy_inquiry",
+    "expected_tool": "search_company_policy",
+    "expected_trajectory_nodes": ["router", "retrieval", "assessment", "escalation"],
+    "reference_answer": "I could not find definitive guidance on this matter in the approved company documents.",
+    "tags": ["agent", "unanswerable", "escalation"]
+  },
+  {
+    "id": "agent_003",
+    "inputs": {
+      "question": "I have an urgent salary discrepancy where my bonus was missing. I need to escalate to human payroll."
+    },
+    "expected_intent": "support_escalation",
+    "expected_tool": "search_hr_escalation_directory",
+    "expected_trajectory_nodes": ["router", "escalation"],
+    "reference_answer": "payroll@acmetechnologies.com",
+    "tags": ["agent", "direct_escalation"]
+  },
+  {
+    "id": "agent_004",
+    "inputs": {
+      "question": "Hi there! What can you help me with?"
+    },
+    "expected_intent": "general_chitchat",
+    "expected_tool": null,
+    "expected_trajectory_nodes": ["router", "general"],
+    "reference_answer": "I am the Acme Technologies Knowledge Assistant.",
+    "tags": ["agent", "chitchat", "no_tool"]
+  }
+]

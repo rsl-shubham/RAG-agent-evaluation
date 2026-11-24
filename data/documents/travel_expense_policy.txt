@@ -1,0 +1,30 @@
+# Corporate Travel and Business Expense Policy
+# Metadata: source=travel_expense_policy.txt, category=Finance, version=3.0, effective_date=2026-02-15, department=Global Travel & Procurement
+
+ACME TECHNOLOGIES - CORPORATE TRAVEL POLICY
+
+1. Travel Authorizations and Booking
+- All domestic and international business travel must be initiated via the Corporate Travel Desk (Navan / travel@acmetechnologies.com) at least 14 days prior to domestic departure and 30 days prior to international departure.
+- Travel requests must be pre-approved by the functional Vice President and Finance Controller.
+- Direct booking through consumer booking sites is not reimbursable unless certified by the travel desk as an outage exception.
+
+2. Airfare and Rail Guidelines
+- Economy Class is mandatory for all domestic flights and international flights under 6 hours duration.
+- Premium Economy is permitted for continuous international flight legs exceeding 6 hours.
+- Business Class is permitted only for C-suite executives or with written approval from the Chief Executive Officer (CEO).
+
+3. Accommodation and Lodging Limits
+- Tier 1 Metro Cities (Mumbai, Bengaluru, Delhi NCR, New York, London): Maximum hotel rate cap of INR 7,500 per night (domestic) or $220 / £180 per night (international).
+- Tier 2 Cities: Maximum hotel room rate cap of INR 4,500 per night.
+- Hotel incidentals (mini-bar, in-room pay-per-view, spa treatments) are non-reimbursable personal expenses.
+
+4. Daily Per-Diem Meal Allowances
+- Domestic Daily Per-Diem: INR 1,800 per day to cover breakfast, lunch, and dinner when meals are not provided by host conferences or client dinners.
+- International Daily Per-Diem: $75 / €70 / £60 per day depending on target currency zone.
+- Receipts are not required for fixed per-diem claims, but travel itinerary proof is mandatory.
+
+5. Local Ground Transportation
+- Ride-share services (Uber for Business / Ola Corporate) or pre-paid airport taxis are standard. Car rentals require pre-approval and are restricted to compact or mid-size categories.
+
+6. Travel Expense Claim Submission Deadline
+- Complete expense reports along with boarding passes and receipts must be submitted via the portal within 15 calendar days of return from business travel. Failure to submit within 30 days results in forfeiture of claim.
